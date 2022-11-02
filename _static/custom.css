@@ -1,0 +1,82 @@
+/* Break on \n in project title.
+   The lag of the text-wrap class on the logo/title link element
+   in sphinx-book-theme 0.4.0rc1 necessitates this
+*/
+a.navbar-brand {
+    white-space: pre-line;
+    text-align: center;
+}
+/* Figure captions same width as figures */
+figure {
+    display: table !important;
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+}
+
+/* Extra vertical space beneath images which are not figures */
+:not(figure) img {
+    margin-bottom: 1.15em;
+}
+
+
+.fig-roi-lbl {
+    border-radius: 50%;
+    font-size: 0.9em;
+    width:1.2em;
+    height: 1.2em;
+    font-weight: bold;
+    
+    border: 1px solid #404040;
+    color: #404040;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.with-border {
+    border: 1px solid #c1c1c1;
+}
+
+
+/*
+.rst-content section ol li>figure,
+.rst-content section ol li>figure:last-child, 
+.rst-content section ol li>img,
+.rst-content section ol li>img:last-child,
+ul.simple li {
+    margin-bottom:12px;
+}
+
+section>figure,
+secction>img {
+    margin-bottom: 12px !important;
+}
+
+section > ol.arabic:not(.simple) > li::marker {
+    font-weight: 800;
+    font-size: 110%;
+}
+*/
+ 
+
+/*
+.rst-content section ol.arabic {
+    list-style: none !important;
+    counter-reset: item;
+}
+
+.rst-content li {
+    counter-increment: item;
+}
+
+.rst-content li:before {
+   content: counter(item);
+   border-radius: 50%;
+   border: 1px solid black;
+   display: inline-block;
+   text-align: center;
+}
+*/

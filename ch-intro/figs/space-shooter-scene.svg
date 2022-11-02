@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57.301189mm"
+   height="48.040771mm"
+   viewBox="0 0 57.301189 48.040771"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="space-shooter-scene.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="52.228076"
+     inkscape:cy="69.798343"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="3520"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.68605,-191.65535)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1019"
+       width="57.301189"
+       height="48.040771"
+       x="54.68605"
+       y="191.65535" />
+    <g
+       id="g1061"
+       transform="translate(0.7488451)">
+      <image
+         y="196.70403"
+         x="84.704468"
+         id="image1320-5"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAABmJLR0QA/wD/AP+gvaeTAAAAc0lE QVRYw+2XSwrAMAhEx9IT9f5n6JWSbXEjQQv5vNmFEBHe4BiT09PUvufXZCpUVP/SZKKhSJZlXv0e ZMs1dGfnCMiYQ397AmTnZVnkKZ9FUVaN1gPZ/h6qFh4iy0DGTp3Nquy/zN+D7Lx/2ej+A7LtGuoh SC0JHNClDAAAAABJRU5ErkJggg== "
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="9.5249996"
+         width="9.5249996" />
+      <image
+         y="196.70403"
+         x="98.462807"
+         id="image1320-5-5"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAABmJLR0QA/wD/AP+gvaeTAAAAc0lE QVRYw+2XSwrAMAhEx9IT9f5n6JWSbXEjQQv5vNmFEBHe4BiT09PUvufXZCpUVP/SZKKhSJZlXv0e ZMs1dGfnCMiYQ397AmTnZVnkKZ9FUVaN1gPZ/h6qFh4iy0DGTp3Nquy/zN+D7Lx/2ej+A7LtGuoh SC0JHNClDAAAAABJRU5ErkJggg== "
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="9.5249996"
+         width="9.5249996" />
+      <image
+         y="196.70403"
+         x="70.946129"
+         id="image1320-5-6"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAABmJLR0QA/wD/AP+gvaeTAAAAc0lE QVRYw+2XSwrAMAhEx9IT9f5n6JWSbXEjQQv5vNmFEBHe4BiT09PUvufXZCpUVP/SZKKhSJZlXv0e ZMs1dGfnCMiYQ397AmTnZVnkKZ9FUVaN1gPZ/h6qFh4iy0DGTp3Nquy/zN+D7Lx/2ej+A7LtGuoh SC0JHNClDAAAAABJRU5ErkJggg== "
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="9.5249996"
+         width="9.5249996" />
+    </g>
+    <image
+       y="225.65811"
+       x="73.6483"
+       id="image1465"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAABmJLR0QA/wCqAADnyKRFAAAApElE QVRYw+2ZQQ6AMAgEwfhFfaQ+Eq/KoYRAjSazN9Oocxg32Ko0x8zsfq2q2vn8RX4WgAEGGOBxyh3p ezd8YbGXUQJgl7X9o1DvOEoA/K0ejno363C2l1EC4Nk93N27KAFwtYez8259Fhn3MkoAHDn8trNZ p1EC4Oos4Z2q7ktk70cJgLMOh/9cp1vebLxedBolAK7uS4Tz8yHPc7pdOKcDeGYuN/IsCemCDQsA AAAASUVORK5CYII= "
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="11.641666"
+       width="11.641666" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.65193641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1160-9-0"
+       width="1"
+       height="2"
+       x="64.443611"
+       y="200.16666" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.65193641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1160-1-9"
+       width="1"
+       height="2"
+       x="62.326946"
+       y="195.37668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.6655736px;line-height:1.25;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.14163934"
+       x="94.068214"
+       y="238.8943"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="94.068214"
+         y="238.8943"
+         style="fill:#ffffff;stroke-width:0.14163934">001</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.65193641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1160-9-4"
+       width="1"
+       height="2"
+       x="66.56028"
+       y="204.95665" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.65193641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1160-9-0-6"
+       width="1"
+       height="2"
+       x="78.753357"
+       y="216.80673" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.65193641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1160-9-4-1"
+       width="1"
+       height="2"
+       x="78.753357"
+       y="221.59673" />
+  </g>
+</svg>
